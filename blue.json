@@ -9,7 +9,7 @@
     { "trait_type": "Rarity", "value": "blue" },
     { "trait_type": "Category", "value": "pack" },
     { "trait_type": "Includes", "value": "1 hero, 2 weapons" },
-    { "trait_type": "Price", "value": "10$" },
+    { "trait_type": "Price", "value": "10$" }
 
   ]
 }
