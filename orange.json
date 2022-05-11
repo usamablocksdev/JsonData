@@ -1,0 +1,18 @@
+{
+  "id": "urn:decentraland:matic:collections-v2:0xda41c9e3808237b4ab8f6abd6936a828f4225263:20",
+  "name": "Soleae (ICE Level 1)",
+  "description": "DCL Wearable 227/250",
+  "language": "en-US",
+  "image": "https://ipfs.io/ipfs/QmWa9Gvw2KsQPnKmgzNAGgU2QQsFcfFCVMMb3YCqbszJQt",
+  "thumbnail": "https://peer-eu1.decentraland.org/content/contents/QmX7i95YLZK1cVi5hAxzzmb7LFjdFvMNxCtg31FgpQDwPz",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "epic" },
+    { "trait_type": "Category", "value": "feet" },
+    { "trait_type": "Tag", "value": "Pit" },
+    { "trait_type": "Body Shape", "value": "BaseMale" },
+    { "trait_type": "Body Shape", "value": "BaseFemale" },
+    { "trait_type": "Bonus", "value": 1 },
+    { "trait_type": "Rank", "value": "1" },
+    { "trait_type": "Line", "value": "DG Spartan" }
+  ]
+}
