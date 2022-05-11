@@ -6,13 +6,10 @@
   "image": "https://ipfs.io/ipfs/QmSn5izAj9pSyqL98JuuFenAKkozv2xPZVM5XiU5gmTewZ",
   "thumbnail": "https://peer-eu1.decentraland.org/content/contents/QmX7i95YLZK1cVi5hAxzzmb7LFjdFvMNxCtg31FgpQDwPz",
   "attributes": [
-    { "trait_type": "Rarity", "value": "epic" },
-    { "trait_type": "Category", "value": "feet" },
-    { "trait_type": "Tag", "value": "Pit" },
-    { "trait_type": "Body Shape", "value": "BaseMale" },
-    { "trait_type": "Body Shape", "value": "BaseFemale" },
-    { "trait_type": "Bonus", "value": 1 },
-    { "trait_type": "Rank", "value": "1" },
-    { "trait_type": "Line", "value": "DG Spartan" }
+    { "trait_type": "Rarity", "value": "blue" },
+    { "trait_type": "Category", "value": "pack" },
+    { "trait_type": "Includes", "value": "1 hero, 2 weapons" },
+    { "trait_type": "Price", "value": "10$" },
+
   ]
 }
