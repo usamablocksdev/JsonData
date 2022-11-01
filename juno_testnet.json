@@ -1,0 +1,66 @@
+{
+  "contracts": {
+    "loopToken": "juno12560nz7wf5k6e3ke762m0kf39ppgrgvltxcgds8v0jqv085d8edqau3jcf",
+    "tokenFactory": "terra16hdjuvghcumu6prg22cdjl96ptuay6r0hc6yns",
+    "tokenFactory2": "terra10fp5e9m5avthm76z2ujgje2atw6nc87pwdwtww",
+    "factory": "terra1mzj9nsxx0lxlaxnekleqdy8xnyw2qrh3uz6h8p",
+    "gov": "terra1wh39swv7nq36pnefnupttm2nr96kz7jjddyt2x",
+    "collector": "terra1s4fllut0e6vw0k3fxsg4fs6fm2ad6hn0prqp3s",
+    "community": "terra1x35fvy3sy47drd3qs288sm47fjzjnksuwpyl9k",
+    "mint": "terra1wfz7h3aqf4cjmjcvc6s8lxdhh7k30nkczyf0mj",
+    "staking": "juno1zw9ra6gttgszy3du66wsgtemjdm3cs9wwn6pcglnngzut9r8c77se7pd75",
+"staking3Mon":"juno1e5fcmwnha53hcamgr8p7kt6rfzhnej9prwmplnse4q9868wg3j0qfr3psm",
+"staking6Mon":"juno1rhzw4ru98vgp9a7p0zjf6tv4lp4z43a37lg6afak9e3eq4s4jpwsj3uag9",
+    "loop_staking": "terra1nd3x2cqaqffp9xfa8epp5lw4cyc48rr4qz4v9d",
+    "loop_airdrop": "terra1atch4d5t25csx7ranccl48udq94k57js6yh0vk",
+    "loop_farm_staking": "juno1l6p6qa0l4hdhedgvwhdqcua9sq4un8ugg5rk4nhh4mnrz7a3sl9sfwzg7l",
+    "loop_farm_staking_v2": "terra1cr7ytvgcrrkymkshl25klgeqxfs48dq4rv8j26",
+    "loop_farm_staking_v3": "terra1swgnlreprmfjxf2trul495uh4yphpkqucls8fv",
+    "loop_farm_staking_v4": "terra1pqzc5ta4zd980xa4jd94yx4pptelzqynf3lena",
+    "loop_farming_airdrop": "terra1ax2xsp6wegcmlhu3lrng0yhaeknergjq3j2azl",
+    "farmAirdrop2": "terra1rz75ls5jztvfs7j99ryqpwv3c0hyxys5fmcuhg",
+    "loopAirdrop2": "terra1acwzpr5hmceckk6dumrtrclzzkaz46tasutljl",
+    "looprAirdrop1": "terra1twtgca3p9ynjw30tuqrf3fh270f38fxjfe950c",
+    "looprAirdrop101": "terra1qqfvgyc3uvpqhlwfkyvv2tfrsmxhljxqvr3skl",
+    "loop_distribution_team": "terra17dxwyl4rty90hq30kamq2q7uzhpux6uaxztp45",
+    "loop_distribution_investor": "terra1uu6lpxqeyhwd9vvlnh20z300myc0c5v49x97sp",
+    "loopDecember21": "terra1zy9pzlz7rw7j7j96ze7e935dqvxsg0em87vhlw",
+    "looprDecember21": "terra1s7kmy2ed46pmdvdpkfzvmq3tns9llxsq0dudk6",
+    "loop_staking_18": "terra1gaawzzmma5s465w4suzlmmpspef89tp4dysl2f",
+    "loop_staking_3": "terra1th3s05dh6qjk5nngthxsl4d8sv7k05svpjlr87",
+    "loopJanuary22": "terra1hu0hch33nus0d30apn94j0amkwujfu55eawqc6",
+    "loop_feb_22_airdrop": "terra1p90ar38m075c4f4pnpwtdyhll5e69hpn5qjqn3",
+    "loopFeb22": "terra1p90ar38m075c4f4pnpwtdyhll5e69hpn5qjqn3",
+    "loopMar22": "terra13pgn2lsv4y67ma69vhc3y7y2y7gmkrzcvj8gmp",
+    "loopApr22": "terra1dln4xqut9cu76y4j3t23e47gyvwyk744w8x67q",
+    "loopMay22": "terra1c7kmeeqk6uw9mhkun7cqwl47juh5sqqmj2ra4e"
+  },
+  "whitelist": {
+    "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup": {
+      "symbol": "LOOP",
+      "name": "Loop Protocol",
+      "token": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+      "pair": "juno1utkr0ep06rkxgsesq6uryug93daklyd6wneesmtvxjkz0xjlte9qdj2s8q",
+      "lpToken": "juno17xudkf5a2m2nny7gqzss4wuges5v0ek035m3wzefp3a99x80kxasj5whwu",
+      "status": "LISTED"
+    }
+  },
+  "ibcList": {
+    "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034": {
+      "symbol": "USDC",
+      "name": "USDC",
+      "token": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
+      "pair": "",
+      "lpToken": "",
+      "decimals": 6
+    },
+"ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9": {
+        "symbol": "ATOM",
+            "name": "ATOM",
+            "token": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+            "pair": "",
+            "lpToken": "",
+            "decimals": 6
+      }
+  }
+}
